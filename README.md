@@ -1,5 +1,5 @@
 <!-- Banner -->
-<h1 align="center">NeversCoder | CodeBucks</h1>
+<h1 align="center">NeversCoder | Alperen</h1>
 <p align="center">
   .NET ekosistemi • C# • WinForms/WPF • ASP.NET MVC • EF Core • SignalR
 </p>
@@ -11,8 +11,8 @@
   <a href="https://www.youtube.com/@NeversCoder">
     <img alt="YouTube" src="https://img.shields.io/badge/YouTube-NeversCoder-red?style=for-the-badge&logo=youtube">
   </a>
-  <a href="mailto:iletisim@codebucks.com.tr">
-    <img alt="Email" src="https://img.shields.io/badge/Email-iletisim@codebucks.com.tr-blue?style=for-the-badge&logo=gmail">
+  <a href="mailto:alpdagul@hotmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-alpdagul@hotmail.com-blue?style=for-the-badge&logo=gmail">
   </a>
 </p>
 
@@ -41,8 +41,8 @@
 </p>
 
 ## 📫 İletişim
-- YouTube: **NeversCoder**
-- E-posta: **iletisim@codebucks.com.tr**
+- YouTube: **@NeversCoder**
+- E-posta: **alpdagul@hotmail.com**
 - Portfolyo: **https://portfolio.codebucks.com.tr** *(varsa ekle)*
 
 ---
