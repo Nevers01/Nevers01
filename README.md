@@ -20,39 +20,30 @@
 ## 🧰 Tech Stack
 
 ### Programming Languages
-<p>
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![ASP.NET MVC](https://img.shields.io/badge/ASP.NET%20MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Entity Framework Core](https://img.shields.io/badge/Entity%20Framework-Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![SignalR](https://img.shields.io/badge/SignalR-Realtime-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-</p>
 
 ### Tools & Technologies
-<p>
-  <!-- Veritabanı -->
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-
-<!-- Web Teknolojileri -->
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-<!-- Araçlar -->
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-</p>
 
 ---
 
 ## 🏆 Awards & Projects
 - **OBS V2** — Dinamik form üretimi, DTO/Service, EF Core  
-  🔗 [ObsV2](https://github.com/Nevers01/ObsV2)
+  🔗 [ObsV2](https://github.com/Nevers01/ObsV2)  
 - **Chatliyo** — SignalR tabanlı masaüstü sohbet (MVP → Final)  
-  🔗 [Cahtliyo (masaüstü chat)](https://github.com/Nevers01/chatapp)
+  🔗 [Chatliyo (masaüstü chat)](https://github.com/Nevers01/ChatApp)
 
 ---
 
@@ -73,6 +64,6 @@
 ---
 
 ## 🤝 İletişim
-- YouTube: **@NeversCoder**
-- E-posta: **alpdagul@hotmail.com**
+- YouTube: **@NeversCoder**  
+- E-posta: **alpdagul@hotmail.com**  
 - Portfolyo: **https://portfolio.codebucks.com.tr**
