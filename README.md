@@ -1,18 +1,18 @@
 <!-- Header / Banner -->
-<h1 align="center">NeversCoder — CodeBucks</h1>
+<h1 align="center">NeversCoder — Alperen</h1>
 <p align="center">.NET ekosistemi | C# | WinForms/WPF | ASP.NET MVC | EF Core | SignalR</p>
 
 <p align="center">
   <a href="https://github.com/Nevers01?tab=followers"><img src="https://img.shields.io/github/followers/Nevers01?style=for-the-badge&logo=github"></a>
   <a href="https://www.youtube.com/@NeversCoder"><img src="https://img.shields.io/badge/YouTube-NeversCoder-red?style=for-the-badge&logo=youtube"></a>
-  <a href="mailto:iletisim@codebucks.com.tr"><img src="https://img.shields.io/badge/Email-iletisim@codebucks.com.tr-blue?style=for-the-badge&logo=gmail"></a>
+  <a href="mailto:alpdagul@hotmail.com"><img src="https://img.shields.io/badge/Email-alpdagul@hotmail.com-blue?style=for-the-badge&logo=gmail"></a>
 </p>
 
 ---
 
 ## 👋 Hakkımda
 - .NET ağırlıklı full-stack (masaüstü & web)
-- Şu an: **OBS (Öğrenci Bilgi Sistemi)**, **Chatliyo**, **Interaktif Menü**
+- Şu an: **OBS (Öğrenci Bilgi Sistemi)**, **Chatliyo**, **Discord**
 - Temiz mimari (SOLID), modülerlik, gerçek kullanıcı değeri
 
 ---
@@ -41,7 +41,7 @@
 </p>
 
 <!-- İstersen rozet stili (shields.io) ile de gösterebilirsin -->
-<!--
+
 <p>
   <img src="https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge"/>
@@ -50,7 +50,7 @@
   <img src="https://img.shields.io/badge/SignalR-RealTime-512BD4?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white&style=for-the-badge"/>
 </p>
--->
+
 
 ---
 
@@ -58,9 +58,7 @@
 - **OBS V2** — Dinamik form üretimi, DTO/Service, EF Core  
   🔗 [ObsV2](https://github.com/Nevers01/ObsV2)
 - **Chatliyo** — SignalR tabanlı masaüstü sohbet (MVP → Final)  
-  🔗 [Discord (masaüstü chat)](https://github.com/Nevers01/Discord)
-- **Interaktif Menü** — Restoran/kafe sipariş & bildirim (ASP.NET MVC)  
-  🔗 (Repo public ise ekle)
+  🔗 [Cahtliyo (masaüstü chat)](https://github.com/Nevers01/chatapp)
 
 ---
 
@@ -81,6 +79,6 @@
 ---
 
 ## 🤝 İletişim
-- YouTube: **NeversCoder**
-- E-posta: **iletisim@codebucks.com.tr**
-- Portfolyo: **https://portfolio.codebucks.com.tr**  <!-- varsa -->
+- YouTube: **@NeversCoder**
+- E-posta: **alpdagul@hotmail.com**
+- Portfolyo: **https://portfolio.codebucks.com.tr**
