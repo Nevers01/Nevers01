@@ -29,10 +29,10 @@
 ## 🚀 Öne Çıkan Projeler
 - **OBS V2** — Dinamik form üretimi, DTO/Service katmanları, EF Core  
   🔗 Repo: [ObsV2](https://github.com/Nevers01/ObsV2)
-- **Chatliyo** — SignalR tabanlı masaüstü sohbet uygulaması (MVP → Final roadmap)  
-  🔗 Repo: [ChatApp/Discord](https://github.com/Nevers01/Discord)
-- **Interaktif Menü** — Restoran/kafe sipariş & bildirim sistemi (ASP.NET MVC)  
-  🔗 (Repo public ise link ekle)
+- **Chatliyo** — SignalR tabanlı masaüstü sohbet uygulaması 
+  🔗 Repo: [ChatApp](https://github.com/Nevers01/Chatapp)
+- **Discord** —   
+  🔗 Repo: [Discord] (https://github.com/nevers01/discord)
 
 ## 📊 İstatistikler
 <p align="center">
