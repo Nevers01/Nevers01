@@ -78,4 +78,4 @@
 ## 🤝 İletişim
 - YouTube: [**@NeversCoder**](https://youtube.com/@NeversCoder)   
 - E-posta: **alpdagul@hotmail.com**  
-- Portfolyo: **https://portfolio.codebucks.com.tr**
+- Portfolyo: [**Portfolyom**](portfolio.codebucks.com.tr)
