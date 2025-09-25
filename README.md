@@ -1,16 +1,50 @@
-## Hi there 👋
+<!-- Banner -->
+<h1 align="center">NeversCoder | CodeBucks</h1>
+<p align="center">
+  .NET ekosistemi • C# • WinForms/WPF • ASP.NET MVC • EF Core • SignalR
+</p>
 
-<!--
-**Nevers01/Nevers01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://github.com/Nevers01?tab=followers">
+    <img alt="Followers" src="https://img.shields.io/github/followers/Nevers01?style=for-the-badge&logo=github">
+  </a>
+  <a href="https://www.youtube.com/@NeversCoder">
+    <img alt="YouTube" src="https://img.shields.io/badge/YouTube-NeversCoder-red?style=for-the-badge&logo=youtube">
+  </a>
+  <a href="mailto:iletisim@codebucks.com.tr">
+    <img alt="Email" src="https://img.shields.io/badge/Email-iletisim@codebucks.com.tr-blue?style=for-the-badge&logo=gmail">
+  </a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👋 Kısaca ben
+- .NET ağırlıklı full-stack geliştirici
+- Şu an: **OBS (Öğrenci Bilgi Sistemi)**, **Chatliyo**, **Interaktif Menü** projelerini geliştiriyorum  
+- Hedefim: temiz mimari (SOLID), modüler yapılar, gerçek kullanıcı problemlerini çözen ürünler
+
+## 🧰 Kullandığım Teknolojiler
+`C#` `WinForms` `WPF` `ASP.NET MVC` `Entity Framework Core` `SignalR` `SQL Server` `XAML` `JavaScript` `HTML/CSS`
+
+## 🚀 Öne Çıkan Projeler
+- **OBS V2** — Dinamik form üretimi, DTO/Service katmanları, EF Core  
+  🔗 Repo: [ObsV2](https://github.com/Nevers01/ObsV2)
+- **Chatliyo** — SignalR tabanlı masaüstü sohbet uygulaması (MVP → Final roadmap)  
+  🔗 Repo: [ChatApp/Discord](https://github.com/Nevers01/Discord)
+- **Interaktif Menü** — Restoran/kafe sipariş & bildirim sistemi (ASP.NET MVC)  
+  🔗 (Repo public ise link ekle)
+
+## 📊 İstatistikler
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nevers01&show_icons=true&hide_title=true&count_private=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nevers01&layout=compact" height="160" />
+</p>
+
+## 📫 İletişim
+- YouTube: **NeversCoder**
+- E-posta: **iletisim@codebucks.com.tr**
+- Portfolyo: **https://portfolio.codebucks.com.tr** *(varsa ekle)*
+
+---
+
+> “Clean code, simple UX, gerçek kullanıcı değeri.”
