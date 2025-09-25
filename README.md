@@ -49,7 +49,6 @@
 ![LINQ](https://img.shields.io/badge/LINQ-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Design Patterns](https://img.shields.io/badge/Design%20Patterns-SOLID-FF6F00?style=for-the-badge&logo=buffer&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)
 
 ---
 
