@@ -24,7 +24,7 @@
 - Hedefim: temiz mimari (SOLID), modüler yapılar, gerçek kullanıcı problemlerini çözen ürünler
 
 ## 🧰 Kullandığım Teknolojiler
-[c#]`C#` `WinForms` `WPF` `ASP.NET MVC` `Entity Framework Core` `SignalR` `SQL Server` `XAML` `JavaScript` `HTML/CSS`
+![c#]`C#` `WinForms` `WPF` `ASP.NET MVC` `Entity Framework Core` `SignalR` `SQL Server` `XAML` `JavaScript` `HTML/CSS`
 
 ## 🚀 Öne Çıkan Projeler
 - **OBS V2** — Dinamik form üretimi, DTO/Service katmanları, EF Core  
